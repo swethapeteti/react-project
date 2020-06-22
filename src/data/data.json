@@ -1,0 +1,67 @@
+{
+	"profiles":[
+		{
+			"basics":{
+				"name":"swetha.p",
+				"role":"student",
+				"email":"swetha@gmail.com",
+				"mobile":"8688551157",
+				"address":"tenali"
+			},
+		"summery":[
+			"A student learning web designing course through online",
+			"Gaining knowledge on Frontend technologies like HTML5,CSS3 and JavaScript",
+			"Gaining knowledge on libraries like React,JQuery,"
+			
+		],
+		"education":[
+			{
+				"degree":"B-Tech",
+				"institute":"Vignans Lara",
+				"result":"85%"
+			},{
+				"degree":"Intermediate",
+				"institute":"SriChaitanya",
+				"result":"92%"
+			},{
+				"degree":"S.S.C",
+				"institute":"N.N.C",
+				"result":"92%"
+			}
+
+
+
+		]
+	},
+		{
+			"basics":{
+				"name":"santoshi.p",
+				"role":"student",
+				"email":"santoshi@gmail.com",
+				"mobile":"8688551154",
+				"address":"tenali"
+			},
+		"summery":[
+			"A student learning web designing course through online",
+			"Gaining knowledge on Frontend technologies like HTML5,CSS3 and JavaScript",
+			"Gaining knowledge on libraries like React,JQuery,"
+			
+		],
+		"education":[
+			{
+				"degree":"B-Tech",
+				"institute":"Vignans Lara",
+				"result":"85%"
+			},{
+				"degree":"Intermediate",
+				"institute":"SriChaitanya",
+				"result":"92%"
+			},{
+				"degree":"S.S.C",
+				"institute":"N.N.C",
+				"result":"92%"
+			}
+		]
+	}
+]
+}
